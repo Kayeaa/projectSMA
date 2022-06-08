@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.header>h2
+{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-size: 30px;
+    background-color:bisque;
+    
+    margin-left: 40%;
+    margin-right: 35%;
+    text-align: center;
+}
+
+header
+{
+    background-image: url(./image/menu.jpg);
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+
+}
+.first_sticker , .second_sticker{
+    padding: 2% ;
+    margin-top: 2%;
+
+}
+.footer{
+    background-image: url(./image/memes.jpg);
+    background-size: cover;
+    padding-top: 20px;
+    height: auto;
+}
